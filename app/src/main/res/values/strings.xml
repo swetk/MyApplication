@@ -1,5 +1,5 @@
 <resources>
     <string name="app_name">My Application</string>
-    <string name="edit_message">Vpisi sporocilo</string>
-    <string name="button_send">Poslji</string>
+    <string name="edit_message">Vpiši sporočilo</string>
+    <string name="button_send">Pošlji</string>
 </resources>
